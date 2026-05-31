@@ -1,7 +1,7 @@
 ## Hi, I'm Lihini!
 
 - 🎓 Rising junior at Penn (CIS + Classical Studies)
-- 🤖 I build AI/ML systems, ranging from biomedical imaging to NLP on ancient texts
+- 🤖 ML researcher & SWE - building models and pipelines from prototype to prod
 - 📄 IEEE-published researcher; interned @ UCB Pharmaceuticals & Citius Healthcare
   
 - 🎭 Producer of Penn's only improv comedy group (yes,and!)
